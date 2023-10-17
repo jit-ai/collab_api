@@ -1,0 +1,27 @@
+﻿{
+    "development": {
+        "user": "root",
+        "password": null,
+        "database": "collab",
+        "host": "127.0.0.1",
+        "dialect": "mysql",
+        "port": 3306
+    },
+    "test": {
+        "user": "",
+        "password": null,
+        "database": "",
+        "host": "",
+        "dialect": "mysql",
+        "port": 3306
+    },
+    "production": {
+        "user": "admin",
+        "password": "ihAex1xnoePK2Wgi49q5",
+        "database": "collab",
+        "host": "collab.cnxd5ivc3jqe.us-east-1.rds.amazonaws.com",
+        "dialect": "mysql",
+        "port": 3306
+    },
+    "secret": "COLLAB API SECRET KEY"
+}
